@@ -1,3 +1,3 @@
 # trailhead
 Used for Trailhead projects
-Comment from branch 1
+Comment from branch2
